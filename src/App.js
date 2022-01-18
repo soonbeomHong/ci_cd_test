@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          webhooks React
+          learn React
         </a>
       </header>
     </div>
