@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          123 React
+          webhooks React
         </a>
       </header>
     </div>
